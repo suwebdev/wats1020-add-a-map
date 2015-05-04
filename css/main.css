@@ -2,14 +2,36 @@
    Author's custom styles
    ========================================================================== */
 
-#map-container { height: 180px; }
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	padding-bottom: 0;
+}
 
+.jumbotron {
+	font-family: Verdana, Geneva, sans-serif;
+	margin-bottom: 0;
+}
 
+#map-container { 
+	height: 300px;
+}
 
+h1 {
+	font-family: Georgia, serif;
+}
 
+dl {
+	font-size: 110%;
+	margin-left: 100px;
+}
 
+dt{
+	color: limegreen;
+}
 
-
+dd {
+	margin-left: 20px;
+}
 
 
 
